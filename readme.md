@@ -1,1 +1,1 @@
-A easy spider for music.163.com
+Easy spider for music.163.com
