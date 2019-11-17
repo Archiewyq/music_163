@@ -37,6 +37,7 @@ http://music.163.com/api/v1/resource/comments/R_AL_3_18903
 ### 搜索
 http://music.163.com/api/search/suggest?s=%E7%8E%8B%E8%8F%B2&type=2  
 *s为搜索关键字，type为搜索类型：1(默认，单曲搜索) 10(专辑搜索) 100(歌手搜索) 1000(歌单搜索) 1002(用户搜索) 1004(mv搜索)*
+> http://music.163.com/api/search/pc?s=王菲&type=1002 (用户搜索)
 ### 歌词搜索
 http://music.163.com/api/song/media?id=34367845  
 *34367845为歌曲id*
